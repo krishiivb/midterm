@@ -1,0 +1,144 @@
+body{
+    width: 100%;
+    max: width 1200px; ;
+    font: 18px Arial ,sans-serif;
+    padding: 20px;
+    background-color: pink;
+    }
+
+    
+    
+    
+    .structure{
+        border:solid pink;
+        border-radius: 18em;
+        padding: 9px;
+        margin: 10px;
+        clear: both;
+    }
+    
+    
+    
+    
+    
+    
+    
+    
+    h1{
+    color: purple;
+    font-variant: small-caps;
+    font-size: small;
+    
+    
+    }
+    h2{
+        color: purple;
+        font-variant: small-caps;
+        font-size: medium;
+       
+        }
+    
+    
+    main{
+    float: right;
+    width: 50vw;
+    padding: 5px;
+    margin: auto;
+    height: 70vh;
+    background-color: blue;
+    
+    
+    }
+    
+    
+    aside{
+    float: left;
+    width: 20vw;
+    padding: 3px;
+    margin: auto;
+    
+    
+    }
+    .cat1{
+
+        float: left;
+    }
+
+    .cat2{
+
+        float: right;
+    }
+    
+    .mainimg img{
+    border:10px solod purple;
+    width: 90%;
+    height:80% ;
+    size: 50%;
+
+    }
+
+    
+    
+    q{
+    padding: 22px;
+    font-style: bold;
+    font-size: 22px;
+    
+    
+    }
+    header{
+
+        background-color: yellow;
+    }
+    footer{
+        background-color: yellow;
+    }
+       
+    figcaption{
+    
+    
+        font-weight: bold;
+    }
+    
+    
+    ul li{
+    line-height:  28px;
+    list-style:none
+    
+    }
+    
+    
+    
+    
+    figcaption{
+    
+    
+        font-weight:bold ;
+    
+    
+    }
+    
+    
+    ul li{
+    
+    
+    list-style-type:none ;
+    line-height: 1.8em ;
+    }
+    
+    a:hover{
+        color:red
+        
+        
+        }
+        
+ 
+    
+   
+    
+    
+    
+    
+    
+    
+    
